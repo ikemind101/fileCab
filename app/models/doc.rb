@@ -1,3 +1,3 @@
 class Doc < ApplicationRecord
-  belongs_to :users
+  belongs_to :user
 end
